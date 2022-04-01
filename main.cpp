@@ -1,6 +1,6 @@
 // Title : Play with Basic String
 // Purpose : Practice using .append("") to add word just right after a string, practice use
-// .find() to locate index of a char, and practice .substr(I,L) to take a substring from a string
+//          .find() to locate index of a char, and practice .substr(I,L) to take a substring from a string
 // Enjoy the Process - Practice makes Improvement
 // Author : Fransiskus Agapa
 
